@@ -1,4 +1,5 @@
 # Harshitha
-Project manegment 
-fristly Tech
-second Thinking
+"Project manegment" 
+fristly Tech,
+second Thinking,
+collecting Information,
