@@ -3,3 +3,4 @@
 fristly Tech,
 second Thinking,
 collecting Information,
+write about project
